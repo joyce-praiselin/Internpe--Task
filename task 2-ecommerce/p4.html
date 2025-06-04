@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Payment</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+  <style>
+    .payment-section {
+      padding: 4rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .payment-container {
+      background-color: var(--container-color);
+      padding: 2rem;
+      border-radius: 0.5rem;
+      box-shadow: 1px 2px 4px rgb(15 53 55 /10%);
+    }
+
+    .payment-details {
+      display: flex;
+      gap: 2rem;
+      margin-bottom: 2rem;
+      align-items: center;
+    }
+
+    .payment-details img {
+      width: 180px;
+      border-radius: 0.5rem;
+    }
+
+    .payment-form {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .payment-form input {
+      padding: 10px;
+      font-size: 1rem;
+      border-radius: 0.5rem;
+      border: 1px solid #ccc;
+    }
+
+    .payment-form input:focus {
+      border-color: var(--main-color);
+      outline: none;
+    }
+
+    .payment-form .btn {
+      width: fit-content;
+    }
+  </style>
+</head>
+<body>
+  <section class="payment-section">
+    <div class="heading">
+      <h2>Complete Your <span>Payment</span></h2>
+    </div>
+    <div class="payment-container">
+      <!-- Selected Product Details -->
+      <div class="payment-details">
+        <img src="images/shop4.png" alt="Product">
+        <div>
+          <h2>Men's Pullover Fleece Hoodie</h2>
+          <p><strong>Price:</strong> 150$</p>
+        </div>
+      </div>
+
+      <!-- Payment Form -->
+      <form class="payment-form">
+        <input type="text" placeholder="Full Name" required />
+        <input type="email" placeholder="Email Address" required />
+        <input type="text" placeholder="Shipping Address" required />
+        <input type="text" placeholder="Card Number" required />
+        <input type="text" placeholder="MM/YY" required />
+        <input type="text" placeholder="CVV" required />
+        <button type="submit" class="btn">Place Order</button>
+      </form>
+    </div>
+  </section>
+</body>
+</html>
