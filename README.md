@@ -1,28 +1,55 @@
-# Internpe--Task
-Internpe-Task1 Calculator Web App
-A basic yet fully functional calculator web application developed using HTML, CSS, and JavaScript as part of Task 1 assigned during my internship at Internpe 🧮.
+**Internship Task 1 – Internpe**
 
-Project Overview
-This simple and user-friendly calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed with clarity and responsiveness in mind, it serves as a foundational project to strengthen core web development skills.
+# 🧮 Project Name: Calculator Web App
 
-Features
-➕ Perform basic mathematical operations (add, subtract, multiply, divide)
-🖱️ Interactive button-based interface
-🧼 Clear button to reset input and result
-📱 Responsive layout for mobile and desktop screens
-🎨 Clean and minimal UI for distraction-free calculation
+## 📄 Project Overview:
+This is a basic yet fully functional calculator web application developed as part of Task 1 during my internship at Internpe. It performs standard arithmetic operations and is built with responsiveness and clean UI in mind. The project served as a strong foundation to reinforce core web development skills.
 
-Technologies Used
-📝 HTML5
-🎨 CSS3
-⚙️ JavaScript
+## ✨ Key Features:
+- ➕ Perform basic mathematical operations: Add, Subtract, Multiply, Divide
+- 🖱️ Button-based interactive interface
+- 🧼 Clear button to reset input and result
+- 📱 Responsive design suitable for both mobile and desktop screens
+- 🎨 Clean and distraction-free layout
 
-Project Status
-✅ Completed – Task assigned by Internpe
+## 🛠️ Technologies Used:
+- HTML5  
+- CSS3  
+- JavaScript
 
-Author
-Joyce Praiselin Prabhakaran
-[LinkedIn](https://www.linkedin.com/in/joyce-praiselin-prabhakaran-744514285/) | [GitHub](https://github.com/joyce-praiselin)
+## 🚀 Project Status:
+✅ Completed – Submitted as Task 1 at **Internpe**
 
-Acknowledgement
-🙏 Thank you to Internpe for the opportunity to work on this task and enhance my practical skills in web development.
+
+
+
+
+# 🛒 Project Name: eShop – Clothing E-Commerce Website
+**Internship Task 2 – Internpe**
+
+## 📄 Project Overview:
+eShop is a stylish, responsive clothing e-commerce website designed to simulate a modern online store. The project emphasizes user-friendly UI, smooth interactions, and functional layout – offering users a feel of browsing and selecting clothes online.
+
+## ✨ Key Features:
+- 🧥 Product showcase section (clothing)
+- ➕ "Add to Cart" and "Add to Wishlist" buttons
+- 📱 Responsive layout (mobile + desktop)
+- 🎨 Clean and trendy UI design
+- 🧭 Simple navigation and intuitive UX
+
+## 🛠️ Technologies Used:
+- HTML5  
+- CSS3  
+- JavaScript
+
+## 🚀 Project Status:
+✅ Completed – Submitted as Task 2 at **Internpe**
+
+## 👤 Author:
+**Joyce Praiselin Prabhakaran**  
+🔗 [LinkedIn](https://www.linkedin.com/in/joyce-praiselin-prabhakaran-744514285/)  
+🔗 [GitHub](https://github.com/joyce-praiselin)
+
+## 🙏 Acknowledgement:
+Grateful to **Internpe** for the opportunity to work on this task and strengthen my skills in front-end development.
+
