@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO-Do List</title>
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #da7509, #3f3e3b);
+    padding: 10px;
+}
+.todo-app{
+    width: 100%;
+    max-width: 540px;
+    background: #000000;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+.todo-app h2{
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-family: cursive;
+}
+.todo-app h2 img{
+    width: 30px;
+    margin-left: 10px;
+}
+
+input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 10px;
+    font-weight: 14px;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #da7509 ;
+    color: #000000;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 40px;
+    font-size: larger;
+    align-items: center;
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="todo-app">
+            <h2>My To-Do List <img src="images/To-Do.png" alt=""></h2>
+             <a href="index.html"><button ><h3>Go!</h3></button></a>
+           
+            
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
